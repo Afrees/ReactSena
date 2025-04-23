@@ -6,7 +6,8 @@ return(
 
 <header className="header">
     <h2>Gabriel Esteban Chilito Muñoz </h2>
-    <br>ADSO</br>
+    
+    ADSO
     <p>2875721</p>
 </header>
 
